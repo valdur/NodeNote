@@ -1,4 +1,4 @@
 In this project I am trying to make a diagram making application that can serve as outliner as well.
 
 I plan to create it in python and PyQt4.
-So far I am designing the app using inkscape. See drawings/
+So far I am designing the app using inkscape. See drawings/requirements.svg
