@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="gui.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4725"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c4cbf5;stop-opacity:1;"
+         offset="0"
+         id="stop4727" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4719"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c4cbf5;stop-opacity:1;"
+         offset="0"
+         id="stop4721" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4713"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c4cbf5;stop-opacity:1;"
+         offset="0"
+         id="stop4715" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4707"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c4cbf5;stop-opacity:1;"
+         offset="0"
+         id="stop4709" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4701"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c4cbf5;stop-opacity:1;"
+         offset="0"
+         id="stop4703" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4695"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#feff8e;stop-opacity:1;"
+         offset="0"
+         id="stop4697" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4689"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e29b76;stop-opacity:1;"
+         offset="0"
+         id="stop4691" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4681"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e2e2e2;stop-opacity:1;"
+         offset="0"
+         id="stop4683" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4659"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e2e2e2;stop-opacity:1;"
+         offset="0"
+         id="stop4661" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4653"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e2e2e2;stop-opacity:1;"
+         offset="0"
+         id="stop4655" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4633"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b4e29c;stop-opacity:1;"
+         offset="0"
+         id="stop4635" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3863"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible">
+      <path
+         id="path3904"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;marker-end:none"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         id="path3907"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;marker-end:none"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path3910"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;marker-end:none"
+         transform="scale(0.2) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3857"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.1821829"
+     inkscape:cx="433.94395"
+     inkscape:cy="739.80317"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3870" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3054"
+       width="700.70227"
+       height="451.13657"
+       x="2.6322327"
+       y="116.73941" />
+    <path
+       style="fill:#d2d8ff;fill-opacity:1;stroke:none"
+       d="m 652.10341,532.09779 50,0 0,35 -50,0 z"
+       id="rect3898"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#80e5ff;stroke:none"
+       d="m 702.10341,517.09779 -45,0 0,20 45,0 z"
+       id="path3896"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#b2efff;fill-opacity:1;stroke:none"
+       id="rect3947"
+       width="15"
+       height="3.9473686"
+       x="665.13043"
+       y="531.04608"
+       ry="1.5789472" />
+    <rect
+       style="opacity:0.54827588;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3056"
+       width="576.11273"
+       height="89.324776"
+       x="61.309292"
+       y="454.72217"
+       ry="20"
+       rx="20.000002" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.67740059px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="161.46977"
+       y="476.49747"
+       id="text3856"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3858"
+         x="161.46977"
+         y="476.49747"
+         style="fill:#ffffff" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3860"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-2.757527,45.499195)"><flowRegion
+         id="flowRegion3862"><rect
+           id="rect3864"
+           width="522.55133"
+           height="90.99839"
+           x="90.99839"
+           y="429.85046" /></flowRegion><flowPara
+         id="flowPara3866"
+         style="font-size:20px;fill:#ffffff">Semitransparent field where you get  help, information, warnings and errors</flowPara></flowRoot>    <path
+       style="fill:#b2efff;fill-opacity:1;stroke:none"
+       d="m 692.53093,519.30382 c -0.92062,0 -1.64449,0.80608 -1.64449,1.7267 l 0,4.11121 -4.19343,0 c -0.92064,0 -1.64448,0.72386 -1.64448,1.64448 l 0,0.82224 c 0,0.92065 0.72384,1.72671 1.64448,1.72671 l 4.19343,0 0,4.11121 c 0,0.92064 0.72387,1.64448 1.64449,1.64448 l 0.82224,0 c 0.92064,0 1.64448,-0.72384 1.64448,-1.64448 l 0,-4.11121 4.19343,0 c 0.92065,0 1.64448,-0.80606 1.64448,-1.72671 l 0,-0.82224 c 0,-0.92062 -0.72383,-1.64448 -1.64448,-1.64448 l -4.19343,0 0,-4.11121 c 0,-0.92062 -0.72384,-1.7267 -1.64448,-1.7267 l -0.82224,0 z"
+       id="rect3949"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#afe9c6;fill-opacity:1;stroke:none"
+       d="m 702.10341,497.09779 c -38.65993,0 -70,31.34007 -70,70 l 20,0 c 0,-25 25,-50 50,-50 z"
+       id="path3872"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-164.83401"
+       y="814.1076"
+       id="text3901"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.46262442,-0.88655437,0.88655437,0.46262442,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3903"
+         x="-164.83401"
+         y="814.1076">Rotate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="705.745"
+       y="549.24432"
+       id="text3901-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99999198,-0.00400518,0.00400518,0.99999198,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6"
+         x="705.745"
+         y="549.24432">Pan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-397.8541"
+       y="799.57404"
+       id="text3901-6-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.26787325,-0.96345416,0.96345416,0.26787325,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4"
+         x="-397.8541"
+         y="799.57404">zoom</tspan></text>
+    <rect
+       style="fill:#feffd7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="rect3960"
+       width="135.47261"
+       height="43.399124"
+       x="566.41156"
+       y="117.7916" />
+    <path
+       id="path3985"
+       style="fill:#e3e6ff;fill-opacity:1;stroke:none"
+       d="m 679.21892,559.06952 1.63474,-1.63475 0,-3.26949 -3.26949,0 -1.63475,1.63474 -6.53898,-3.26949 0,0 6.53898,-3.26949 1.63475,1.63474 3.26949,0 0,-3.26949 -1.63474,-1.63475 3.26949,-6.53898 3.26949,6.53898 -1.63474,1.63475 0,3.26949 3.26949,0 1.63475,-1.63474 6.53898,3.26949 -6.53898,3.26949 -1.63475,-1.63474 -3.26949,0 0,3.26949 1.63474,1.63475 -3.26949,6.53898 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 559.81067,170.23613 1.44545,-1.44545 0,-2.8909 -2.8909,0 -1.44545,1.44545 -5.78181,-2.8909 0,0 5.78181,-2.8909 1.44545,1.44545 2.8909,0 0,-2.8909 -1.44545,-1.44545 2.8909,-5.78181 2.8909,5.78181 -1.44545,1.44545 0,2.8909 2.8909,0 1.44545,-1.44545 5.78181,2.8909 -5.78181,2.8909 -1.44545,-1.44545 -2.8909,0 0,2.8909 1.44545,1.44545 -2.8909,5.78181 z"
+       style="fill:#999999;stroke:none"
+       id="path3990" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.29289055px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="581.4184"
+       y="146.0551"
+       id="text4008"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="581.4184"
+         y="146.0551"
+         id="tspan3404">clipboard view</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.29289055px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="766.02295"
+       y="506.38327"
+       id="text4008-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4010-8"
+         x="766.02295"
+         y="506.38327">Click and drag. </tspan><tspan
+         sodipodi:role="line"
+         x="766.02295"
+         y="527.99933"
+         id="tspan4033">Mouse will be locked and invisible</tspan></text>
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 1119.4073,133.86003 -2.0367,-5.55144 c 6.7721,-3.75544 11.7897,-10.5004 13.0603,-18.76494 2.1808,-14.185364 -7.5088,-27.466414 -21.6943,-29.647194 -14.1855,-2.180754 -27.4752,7.56765 -29.6561,21.753024 -1.4859,9.66601 2.5608,18.87336 9.7895,24.44523 l 6.5505,-8.14499 c -4.4221,-3.33849 -6.9479,-8.85448 -6.0464,-14.7178 1.3093,-8.511104 9.2689,-14.350294 17.7802,-13.041824 8.5111,1.30832 14.3502,9.26894 13.0417,17.780154 -0.6764,4.40461 -3.1491,8.07881 -6.5415,10.4344 l -2.8782,-7.90861 -15.8928,19.17242 10.6194,1.81308 -0.01,0.0589 c 0.081,-10e-4 0.1624,-0.0201 0.2445,-0.0226 l 13.6689,2.3422 z"
+       id="path3083"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3043"
+       width="210.47678"
+       height="82.847244"
+       x="835.18976"
+       y="163.43364"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="path3985-8"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 784.02567,125.40836 3.60338,-3.60327 0,-7.20651 -7.20653,0 -3.60337,3.60324 -14.41306,-7.2065 0,0 14.41307,-7.20651 3.60337,3.60326 7.20652,-1e-5 0,-7.20651 -3.60338,-3.603262 7.20653,-14.413009 7.20653,14.413008 -3.60316,3.603263 0,7.20651 7.20631,0 3.60338,-3.60324 14.41305,7.2065 -14.41306,7.2065 -3.60337,-3.60324 -7.20631,0 0,7.20651 3.60317,3.60326 -7.20654,14.41301 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 787.61187,164.73586 -3.33722,-3.33724 6.67447,-13.34895 0,0 6.67447,13.34895 -3.33722,3.33724 0,20.02343 3.33722,3.33724 -6.67447,13.34894 -6.67447,-13.34894 3.33722,-3.33724 z"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="path3120"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122"
+       width="22.983667"
+       height="22.983667"
+       x="811.20612"
+       y="139.44997"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-9"
+       width="22.983667"
+       height="22.983667"
+       x="1046.6665"
+       y="139.44997"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-90"
+       width="22.983667"
+       height="22.983667"
+       x="1046.6665"
+       y="247.28088"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-7"
+       width="22.983667"
+       height="22.983667"
+       x="811.20612"
+       y="247.28088"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-4"
+       width="22.983667"
+       height="22.983667"
+       x="928.93628"
+       y="247.28088"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-76"
+       width="22.983667"
+       height="22.983667"
+       x="928.93628"
+       y="139.44997"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-8"
+       width="22.983667"
+       height="22.983667"
+       x="811.20612"
+       y="193.3654"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-5"
+       width="22.983667"
+       height="22.983667"
+       x="1046.6665"
+       y="193.36542"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="path3184"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 869.10993,106.31229 3.33725,-3.33722 13.34894,6.67447 0,0 -13.34894,6.67447 -3.33725,-3.33722 -20.02343,0 -3.33724,3.33722 -13.34894,-6.67447 13.34894,-6.67447 3.33724,3.33722 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 1112.6689,311.55967 -5.0823,-15.2912 -5.1045,-0.022 -5.0823,-5.0823 5.0823,-5.0824 5.0824,0 5.1044,-15.3133 -15.2912,5.1265 0,5.0824 -5.0823,5.0823 -5.1044,-5.1044 0,-5.0824 -15.2912,-5.0822 5.1044,15.269 5.0824,0 5.1044,5.1044 -5.1045,5.1045 -5.0823,0 -5.1044,15.2691 15.2912,-5.0824 0,-5.0823 5.1044,-5.1044 5.0823,5.0823 0.022,5.1045 15.2691,5.1044 z m -5.922,-6.4082 -0.3315,0.3315 c -0.3877,0.3877 -1.0485,0.3656 -1.4363,-0.022 l -1.7457,-1.7457 -1.7677,1.7678 c -0.3878,0.3878 -0.9822,0.3877 -1.37,-10e-5 l -0.3536,-0.3535 c -0.3877,-0.3878 -0.432,-1.0264 -0.044,-1.4142 l 1.7678,-1.7678 -1.7236,-1.7235 c -0.3877,-0.3878 -0.3656,-1.0044 0.022,-1.3921 l 0.3315,-0.3315 c 0.3878,-0.3878 1.0044,-0.4099 1.3921,-0.022 l 1.7236,1.7235 1.7678,-1.7677 c 0.3878,-0.3878 1.0264,-0.3436 1.4142,0.044 l 0.3535,0.3536 c 0.3878,0.3877 0.3878,0.9822 10e-5,1.3699 l -1.7678,1.7678 1.7457,1.7457 c 0.3877,0.3877 0.4098,1.0485 0.022,1.4363 z m -21.9645,-26.3397 c -0.061,0.084 -0.1436,0.1436 -0.221,0.221 l -4.4415,4.4414 c -0.6185,0.6186 -1.5014,0.7526 -1.9888,0.2652 -0.4873,-0.4873 -0.3754,-1.3923 0.2432,-2.0108 l 4.4414,-4.4415 c 0.6186,-0.6186 1.5236,-0.7305 2.0109,-0.2431 0.4264,0.4264 0.3837,1.1764 -0.044,1.7678 z"
+       id="path3186"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 1093.3603,253.86011 6.6562,-13.34375 -3.3437,-3.34375 0,-20.03125 3.3437,-3.3125 -6.6562,-13.34375 -6.6875,13.34375 3.3437,3.3125 0,20.03125 -3.3437,3.34375 6.6875,13.34375 z m -0.031,-8 -0.4687,0 c -0.5484,0 -1,-0.48287 -1,-1.03125 l 0,-2.4375 -2.4688,0 c -0.5484,0 -1,-0.45162 -1,-1 l 0,-0.46875 c 0,-0.5484 0.4516,-1.03125 1,-1.03125 l 2.4688,0 0,-2.46875 c 0,-0.54839 0.4516,-0.96875 1,-0.96875 l 0.4687,0 c 0.5484,0 1,0.42036 1,0.96875 l 0,2.46875 2.5,0 c 0.5484,0 0.9688,0.48285 0.9688,1.03125 l 0,0.46875 c 0,0.54838 -0.4204,1 -0.9688,1 l -2.5,0 0,2.4375 c 0,0.54838 -0.4516,1.03125 -1,1.03125 z m 3.0625,-31.4375 -6.3125,0 c -0.8747,0 -1.5625,-0.56078 -1.5625,-1.25 0,-0.68922 0.6878,-1.21875 1.5625,-1.21875 l 6.3125,0 c 0.8748,0 1.5625,0.52953 1.5625,1.21875 0,0.68922 -0.6877,1.25 -1.5625,1.25 z"
+       id="path3188"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 1040.2493,298.88539 13.3437,-6.65625 -13.3437,-6.6875 -3.3438,3.34375 -20.0312,0 -3.3438,-3.34375 -13.3437,6.6875 13.3437,6.65625 3.3438,-3.3125 20.0312,0 3.3438,3.3125 z m 1.9062,-1.875 -0.5,0 c -0.5484,0 -0.9687,-0.48287 -0.9687,-1.03125 l 0,-2.46875 -2.5,0 c -0.5484,0 -1,-0.42037 -1,-0.96875 l 0,-0.5 c 0,-0.5484 0.4516,-1.03125 1,-1.03125 l 2.5,0 0,-2.4375 c 0,-0.54839 0.4203,-0.96875 0.9687,-0.96875 l 0.5,0 c 0.5484,0 0.9688,0.42036 0.9688,0.96875 l 0,2.4375 2.5,0 c 0.5484,0 0.9687,0.48285 0.9687,1.03125 l 0,0.5 c 0,0.54838 -0.4203,0.96875 -0.9687,0.96875 l -2.5,0 0,2.46875 c 0,0.54838 -0.4204,1.03125 -0.9688,1.03125 z m -26,-3.34375 -6.2812,0 c -0.8748,0 -1.5938,-0.56078 -1.5938,-1.25 0,-0.68922 0.719,-1.25 1.5938,-1.25 l 6.2812,0 c 0.8748,0 1.5938,0.56078 1.5938,1.25 0,0.68922 -0.719,1.25 -1.5938,1.25 z"
+       id="path3190"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 1053.8398,86.594452 -15.5924,31.111968 7.7962,7.79622 15.5924,0 7.7962,-7.79622 -15.5924,-31.111968 z m -6.4847,17.923988 2.2587,0 8.7434,13.11513 0,-13.11513 2.113,0 0,16.68535 -2.2587,0 -8.7434,-13.11511 0,13.11511 -2.113,0 0,-16.68535 z"
+       id="path3120-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="773.41925"
+       y="92.149063"
+       id="text3350"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3352"
+         x="773.41925"
+         y="92.149063">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="857.55371"
+       y="95.236572"
+       id="text3354"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3356"
+         x="857.55371"
+         y="95.236572">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="775.73486"
+       y="179.371"
+       id="text3358"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3360"
+         x="775.73486"
+         y="179.371">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1028.1382"
+       y="109.13032"
+       id="text3362"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3364"
+         x="1028.1382"
+         y="109.13032">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1139.2882"
+       y="103.7272"
+       id="text3366"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3368"
+         x="1139.2882"
+         y="103.7272">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1109.1851"
+       y="227.22728"
+       id="text3370"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3372"
+         x="1109.1851"
+         y="227.22728">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1026.5944"
+       y="312.13358"
+       id="text3374"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3376"
+         x="1026.5944"
+         y="312.13358">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1116.9038"
+       y="291.29294"
+       id="text3378"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3380"
+         x="1116.9038"
+         y="291.29294">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45.12891006000000300px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="885.30682"
+       y="217.93045"
+       id="text3382"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3384"
+         x="885.30682"
+         y="217.93045">Spam</tspan></text>
+    <rect
+       style="fill:#feffd7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="rect3960-3"
+       width="142.41949"
+       height="50.346004"
+       x="3.2762344"
+       y="117.14799" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 146.08107,175.89029 1.44545,-1.44545 0,-2.8909 -2.8909,0 -1.44545,1.44545 -5.78181,-2.8909 0,0 5.78181,-2.8909 1.44545,1.44545 2.8909,0 0,-2.8909 -1.44545,-1.44545 2.8909,-5.78181 2.8909,5.78181 -1.44545,1.44545 0,2.8909 2.8909,0 1.44545,-1.44545 5.78181,2.8909 -5.78181,2.8909 -1.44545,-1.44545 -2.8909,0 0,2.8909 1.44545,1.44545 -2.8909,5.78181 z"
+       style="fill:#999999;stroke:none"
+       id="path3990-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.29289055px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="9.0085754"
+       y="148.5127"
+       id="text4008-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="9.0085754"
+         y="148.5127"
+         id="tspan3404-8">command history</tspan></text>
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 406.90794,275.27291 -0.79584,-2.15796 c 2.6462,-1.45981 4.60683,-4.08172 5.10331,-7.29431 0.85215,-5.51415 -2.93406,-10.67676 -8.47705,-11.52447 -5.54298,-0.84771 -10.73593,2.94169 -11.58812,8.45584 -0.58062,3.75738 1.00063,7.33646 3.82525,9.50236 l 2.5596,-3.16612 c -1.72793,-1.29774 -2.71489,-3.44192 -2.36262,-5.72111 0.5116,-3.30844 3.62182,-5.57826 6.94761,-5.06963 3.32571,0.50857 5.60734,3.60303 5.09605,6.91152 -0.26431,1.71215 -1.23052,3.14039 -2.5561,4.05606 l -1.12466,-3.07424 -6.21011,7.45271 4.14954,0.70478 -0.004,0.0229 c 0.0316,-3.8e-4 0.0634,-0.008 0.0955,-0.009 l 5.34112,0.91046 z"
+       id="path3083-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3043-2"
+       width="82.243835"
+       height="32.204418"
+       x="295.84988"
+       y="286.76877"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="path3985-8-8"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 275.85752,271.98757 1.40802,-1.40066 0,-2.80132 -2.81595,0 -1.40802,1.40065 -5.63191,-2.80131 0,0 5.63191,-2.80132 1.40802,1.40066 2.81595,0 0,-2.80132 -1.40802,-1.40066 2.81595,-5.60263 2.81595,5.60263 -1.40794,1.40066 0,2.80132 2.81587,0 1.40802,-1.40065 5.63191,2.80131 -5.63191,2.80131 -1.40802,-1.40065 -2.81587,0 0,2.80132 1.40794,1.40066 -2.81595,5.60263 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 277.25882,287.27498 -1.30401,-1.29725 2.60805,-5.18901 0,0 2.60804,5.18901 -1.30401,1.29725 0,7.78352 1.30401,1.29725 -2.60804,5.18901 -2.60805,-5.18901 1.30401,-1.29725 z"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="path3120-6"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-85"
+       width="8.9808712"
+       height="8.9342213"
+       x="286.47827"
+       y="277.44583"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-9-7"
+       width="8.9808712"
+       height="8.9342213"
+       x="378.48447"
+       y="277.44583"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-90-2"
+       width="8.9808712"
+       height="8.9342213"
+       x="378.48447"
+       y="319.36191"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-7-6"
+       width="8.9808712"
+       height="8.9342213"
+       x="286.47827"
+       y="319.36191"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-4-5"
+       width="8.9808712"
+       height="8.9342213"
+       x="332.48135"
+       y="319.36191"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-76-7"
+       width="8.9808712"
+       height="8.9342213"
+       x="332.48135"
+       y="277.44583"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-8-1"
+       width="8.9808712"
+       height="8.9342213"
+       x="286.47827"
+       y="298.40384"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect3122-5-1"
+       width="8.9808712"
+       height="8.9342213"
+       x="378.48447"
+       y="298.40387"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="path3184-4"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 309.1042,264.56454 1.30403,-1.29724 5.21611,2.5945 0,0 -5.21611,2.5945 -1.30403,-1.29724 -7.82416,0 -1.30402,1.29724 -5.21611,-2.5945 5.21611,-2.5945 1.30402,1.29724 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 404.27491,344.3484 -1.98591,-5.94401 -1.99459,-0.009 -1.9859,-1.9756 1.9859,-1.97563 1.98595,0 1.99455,-5.9526 -5.97504,1.99278 0,1.97564 -1.98591,1.97559 -1.99455,-1.98418 0,-1.97564 -5.97504,-1.97556 1.99455,5.93538 1.98595,0 1.99454,1.98418 -1.99458,1.98422 -1.98591,0 -1.99455,5.93541 5.97504,-1.97562 0,-1.9756 1.99455,-1.98419 1.98591,1.9756 0.009,1.98422 5.96641,1.98419 z m -2.31402,-2.491 -0.12953,0.12886 c -0.1515,0.15071 -0.40971,0.14212 -0.56124,-0.009 l -0.68213,-0.67859 -0.69074,0.68718 c -0.15153,0.15074 -0.38379,0.15071 -0.53532,-4e-5 l -0.13817,-0.13741 c -0.15149,-0.15075 -0.1688,-0.39899 -0.0172,-0.54973 l 0.69077,-0.68718 -0.6735,-0.66996 c -0.15149,-0.15075 -0.14286,-0.39043 0.009,-0.54114 l 0.12953,-0.12886 c 0.15154,-0.15074 0.39247,-0.15934 0.54396,-0.009 l 0.6735,0.66996 0.69077,-0.68714 c 0.15153,-0.15075 0.40106,-0.13357 0.5526,0.0171 l 0.13813,0.13746 c 0.15154,0.1507 0.15154,0.38179 4e-5,0.5325 l -0.69077,0.68718 0.68213,0.67859 c 0.1515,0.15071 0.16014,0.40758 0.009,0.55832 z m -8.58264,-10.23878 c -0.0238,0.0327 -0.0561,0.0558 -0.0863,0.0859 l -1.73552,1.72647 c -0.24168,0.24046 -0.58667,0.29255 -0.77712,0.10309 -0.19042,-0.18943 -0.14669,-0.54122 0.095,-0.78164 l 1.73548,-1.72651 c 0.24172,-0.24046 0.59535,-0.28396 0.78575,-0.0945 0.16662,0.16575 0.14994,0.45729 -0.0172,0.68718 z"
+       id="path3186-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 367.59177,347.39129 2.60091,-5.18699 -1.30655,-1.29978 0,-7.78656 1.30655,-1.28764 -2.60091,-5.18699 -2.61314,5.18699 1.30655,1.28764 0,7.78656 -1.30655,1.29978 2.61314,5.18699 z m -0.0121,-3.10976 -0.18315,0 c -0.21429,0 -0.39075,-0.1877 -0.39075,-0.40088 l 0,-0.9475 -0.96468,0 c -0.21429,0 -0.39075,-0.17556 -0.39075,-0.38872 l 0,-0.18221 c 0,-0.21318 0.17646,-0.40087 0.39075,-0.40087 l 0.96468,0 0,-0.95965 c 0,-0.21317 0.17646,-0.37658 0.39075,-0.37658 l 0.18315,0 c 0.21428,0 0.39075,0.16341 0.39075,0.37658 l 0,0.95965 0.97687,0 c 0.21429,0 0.37856,0.18769 0.37856,0.40087 l 0,0.18221 c 0,0.21316 -0.16427,0.38872 -0.37856,0.38872 l -0.97687,0 0,0.9475 c 0,0.21318 -0.17647,0.40088 -0.39075,0.40088 z m 1.19667,-12.22041 -2.46661,0 c -0.34179,0 -0.61055,-0.21798 -0.61055,-0.4859 0,-0.26791 0.26876,-0.47375 0.61055,-0.47375 l 2.46661,0 c 0.34182,0 0.61055,0.20584 0.61055,0.47375 0,0.26792 -0.26873,0.4859 -0.61055,0.4859 z"
+       id="path3188-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 402.22071,316.07242 5.21405,-2.58743 -5.21405,-2.59956 -1.30659,1.29978 -7.82719,0 -1.3066,-1.29978 -5.21405,2.59956 5.21405,2.58743 1.3066,-1.28764 7.82719,0 1.30659,1.28764 z m 0.74484,-0.72885 -0.19537,0 c -0.21428,0 -0.37852,-0.1877 -0.37852,-0.40087 l 0,-0.95965 -0.97688,0 c -0.21428,0 -0.39074,-0.16342 -0.39074,-0.37658 l 0,-0.19436 c 0,-0.21318 0.17646,-0.40087 0.39074,-0.40087 l 0.97688,0 0,-0.9475 c 0,-0.21318 0.16424,-0.37658 0.37852,-0.37658 l 0.19537,0 c 0.21429,0 0.37856,0.1634 0.37856,0.37658 l 0,0.9475 0.97689,0 c 0.21428,0 0.37851,0.18769 0.37851,0.40087 l 0,0.19436 c 0,0.21316 -0.16423,0.37658 -0.37851,0.37658 l -0.97689,0 0,0.95965 c 0,0.21317 -0.16427,0.40087 -0.37856,0.40087 z m -10.1595,-1.29979 -2.45438,0 c -0.34183,0 -0.62278,-0.21798 -0.62278,-0.4859 0,-0.26791 0.28095,-0.4859 0.62278,-0.4859 l 2.45438,0 c 0.34183,0 0.62278,0.21799 0.62278,0.4859 0,0.26792 -0.28095,0.4859 -0.62278,0.4859 z"
+       id="path3190-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 381.28743,256.89982 -6.09274,12.09385 3.04637,3.03055 6.09273,0 3.04638,-3.03055 -6.09274,-12.09385 z m -2.5339,6.96741 0.88259,0 3.41648,5.09812 0,-5.09812 0.82566,0 0,6.48594 -0.88259,0 -3.41648,-5.09811 0,5.09811 -0.82566,0 0,-6.48594 z"
+       id="path3120-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.58827019px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="314.61285"
+       y="308.75577"
+       id="text3382-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\valdur\Dropbox\megaprodukcje\NodeNote\drawings\kontrolki.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="scale(1.0026073,0.99739944)"><tspan
+         sodipodi:role="line"
+         id="tspan3384-2"
+         x="314.61285"
+         y="308.75577">Spam</tspan></text>
+  </g>
+</svg>
